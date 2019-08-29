@@ -18,7 +18,7 @@ class Faces(arcade.Window):
 
         # Show the mouse cursor
         self.set_mouse_visible(True)
-
+      
         self.x = SCREEN_WIDTH / 2
         self.y = SCREEN_HEIGHT / 2
 
